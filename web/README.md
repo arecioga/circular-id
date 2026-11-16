@@ -1,6 +1,6 @@
 # Web de Circular ID
 
-Primera versión local de la página de inicio. Es un sitio estático construido con HTML, CSS y JavaScript, sin dependencias ni proceso de compilación.
+Versión local de la web corporativa y el blog. Es un sitio estático construido con HTML, CSS y JavaScript, sin dependencias ni proceso de compilación.
 
 ## Vista local
 
@@ -14,10 +14,26 @@ Después, abrir `http://localhost:4173/web/`.
 
 ## Estado
 
-- Página de inicio responsive.
+- Página de inicio responsive y siete páginas interiores.
 - Demostración interactiva de verificación.
 - Datos de la investigación con limitaciones visibles.
-- Secciones de solución, públicos, blog y conversión.
+- Solución, servicios, empresa, blog, contacto y páginas legales.
+- Carrito local para simular la selección de un plan B2B.
+- Formulario con primera capa informativa que no envía ni guarda datos.
+- Dos artículos completos integrados en el blog.
 - Navegación móvil accesible.
-- Pendiente: páginas interiores, artículos completos, privacidad, contratación simulada y enlaces sociales.
+- Pendiente: sustituir el correo reservado de demostración, incorporar los enlaces de las redes sociales cuando existan y publicar una URL evaluable.
+
+## Páginas
+
+- `index.html`: portada y demostración.
+- `solucion.html`: funcionamiento de NFC + QR y estados de verificación.
+- `servicios.html`: planes orientativos y contratación simulada.
+- `empresa.html`: propósito, investigación, principios y equipo.
+- `blog.html`: índice de contenidos.
+- `contacto.html`: formulario académico y primera capa de privacidad.
+- `privacidad.html` y `condiciones.html`: información legal demostrativa.
+- `blog/`: dos entradas completas de contenido de valor.
+
+Todos los importes, plazos y datos de contacto se presentan como ficción académica. Antes de una publicación real sería necesaria una revisión jurídica y comercial.
 

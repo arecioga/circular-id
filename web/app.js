@@ -74,14 +74,36 @@ const showToast = (message) => {
   toastTimer = window.setTimeout(() => toast.classList.remove("is-visible"), 3200);
 };
 
-document.querySelectorAll("[data-coming-soon]").forEach((button) => {
-  button.addEventListener("click", () => {
-    showToast("Este contenido se desarrollará en el siguiente incremento del proyecto.");
+window.circularIDShowToast = showToast;
+
+document.querySelectorAll("[data-simulated-form]").forEach((form) => {
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const submitButton = form.querySelector('[type="submit"]');
+    const previousLabel = submitButton?.textContent;
+
+    if (submitButton) {
+      submitButton.textContent = "Solicitud preparada ✓";
+      submitButton.disabled = true;
+    }
+
+    showToast("Simulación completada. Ningún dato se ha enviado ni almacenado.");
+
+    window.setTimeout(() => {
+      if (submitButton) {
+        submitButton.textContent = previousLabel;
+        submitButton.disabled = false;
+      }
+    }, 3200);
   });
 });
 
-document.querySelector("[data-demo-button]")?.addEventListener("click", () => {
-  showToast("La solicitud y su primera capa de privacidad se añadirán en la fase de contacto.");
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && body.classList.contains("nav-open")) {
+    navToggle?.setAttribute("aria-expanded", "false");
+    body.classList.remove("nav-open");
+    navToggle?.focus();
+  }
 });
 
 if ("IntersectionObserver" in window && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {

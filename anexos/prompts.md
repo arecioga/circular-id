@@ -51,3 +51,20 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** página de inicio estática con navegación, demostración interactiva, datos de investigación, secciones de funcionamiento y públicos, avance del blog y llamada a demostración.
 - **Revisión humana pendiente:** aprobar la narrativa y el diseño antes de crear páginas interiores y artículos completos.
 
+## Registro 005 - Arquitectura web, servicios y blog
+
+- **Fecha:** 16 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT.
+- **Finalidad:** convertir la portada aprobada en una web completa y cubrir los requisitos de contenido, contratación simulada, contacto y privacidad de la práctica.
+- **Prompt del usuario:**
+
+> Continuamos...
+
+- **Prompt de diseño y contenido utilizado:**
+
+> Continúa la web de Circular ID manteniendo la identidad «Sello vivo» y el enfoque B2B con demostración B2C. Crea páginas interiores coherentes para Solución, Servicios, Empresa, Blog, Contacto, Privacidad y Condiciones. Desarrolla dos artículos originales de valor. En Servicios, incorpora planes y un carrito funcional únicamente como simulación académica, con precios, transporte, pago y plazos claramente ficticios. En Contacto, incluye un formulario local con primera capa informativa, sin enviar ni almacenar datos. La solución debe ser responsive, accesible, honesta sobre los límites de NFC y QR y visualmente consistente con la portada.
+
+- **Resultado utilizado:** sitio estático multipágina con navegación real, tres planes demostrativos, selector de servicio, carrito local, formulario académico, información de privacidad por capas y dos entradas completas de blog.
+- **Decisiones de rigor:** correo reservado bajo el dominio `.example`; precios y condiciones marcados como ficticios; referencias oficiales al RGPD y a la AEPD; ausencia de envío, almacenamiento o cobro real.
+- **Revisión humana pendiente:** validar los precios simulados, decidir si se muestran públicamente los nombres del equipo y sustituir los datos demostrativos antes de publicar.
+

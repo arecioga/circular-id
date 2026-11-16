@@ -18,13 +18,13 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 | Requisito | Evidencia prevista | Estado |
 |---|---|---|
 | Enlace evaluable o vídeo | URL pública de la web | Pendiente |
-| Servicios con descripción e información comercial | Planes o soluciones adaptados al modelo B2B | Pendiente |
-| Mínimo cuatro menús | Portada con navegación creada; páginas interiores pendientes | En desarrollo |
-| Privacidad y primera capa RGPD | Aviso visible en formularios y página de privacidad | Pendiente |
+| Servicios con descripción e información comercial | Tres planes B2B demostrativos, alcance, precios y condiciones | Preparado |
+| Mínimo cuatro menús | Inicio, Solución, Servicios, Empresa, Blog y Contacto | Preparado |
+| Privacidad y primera capa RGPD | Aviso visible en el formulario y segunda capa académica | Preparado |
 | Enlaces a redes sociales | Instagram y LinkedIn | Pendiente |
-| Contacto | Formulario, correo de demostración y datos ficticios señalados | Pendiente |
-| Simulación de compra o contratación | Carrito o selector de plan con condiciones comerciales | Pendiente |
-| Dos entradas de blog | Dos artículos completos integrados en la web | Pendiente |
+| Contacto | Formulario local, correo reservado `.example` y datos ficticios señalados | Preparado |
+| Simulación de compra o contratación | Selector de plan, carrito local, transporte, pago y plazo simulados | Preparado |
+| Dos entradas de blog | Dos artículos completos integrados en la web | Preparado |
 
 ## 3. Redes sociales
 
@@ -43,9 +43,9 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 
 | Requisito de control | Evidencia prevista | Estado |
 |---|---|---|
-| Perfil del cliente | Buyer persona primario y público secundario | Borrador |
+| Perfil del cliente | Buyer persona primario B2B y público secundario comprador | Preparado |
 | Prompts utilizados | Registro literal, finalidad y resultado | Iniciado |
-| Diseño concreto | Decisiones visuales justificadas, no una plantilla genérica | Pendiente |
+| Diseño concreto | Sistema «Sello vivo» aplicado a portada, interiores, blog y formularios | Preparado |
 | Memoria estructurada | Índice alineado con los tres bloques del enunciado | Pendiente |
 
 ## Observación importante
