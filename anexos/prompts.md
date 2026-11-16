@@ -14,3 +14,16 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** creación de la estructura del repositorio, matriz de requisitos y perfil de cliente provisional.
 - **Revisión humana pendiente:** validar el público prioritario, la dirección visual y la modalidad de publicación de los perfiles sociales.
 
+## Registro 002 - Corrección de la fuente para la web
+
+- **Fecha:** 16 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT.
+- **Finalidad:** sustituir el enfoque provisional por un brief basado en la investigación comercial real del grupo.
+- **Prompt del usuario:**
+
+> Perdón, este es el PDF en el que tienes que basar la web.
+
+- **Documento aportado:** «Trabajo_DCOM_Parte1_Etiquetas_NFC_QR.pdf».
+- **Resultado utilizado:** actualización del perfil de cliente, definición de la propuesta de valor, jerarquía de beneficios, arquitectura de la web y selección de dos temas de blog.
+- **Criterio aplicado:** presentar los resultados de la encuesta como orientativos porque proceden de una muestra no probabilística de 20 personas.
+

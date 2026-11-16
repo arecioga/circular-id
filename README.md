@@ -2,13 +2,14 @@
 
 Proyecto académico de Dirección Comercial (3.º ADET) para desarrollar la identidad de marca, la web corporativa y la simulación de redes sociales de **Circular ID**.
 
-Circular ID es una propuesta B2B para marcas de moda que vincula cada producto a una identidad digital mediante QR seguro o NFC. La solución ayuda a comprobar el registro oficial del artículo, reducir el fraude y ofrecer información útil durante toda su vida.
+Circular ID es una propuesta B2B para marcas de moda y plataformas de segunda mano. Cada prenda incorpora una etiqueta dual NFC + QR vinculada a un número de serie único registrado por la marca. La solución permite comprobar la autenticidad del artículo y consultar servicios añadidos, como instrucciones de cuidado, garantía y apoyo a la reventa.
 
 ## Estado del proyecto
 
 - [x] Estructura inicial del repositorio.
 - [x] Requisitos de la práctica desglosados.
 - [x] Perfil de cliente provisional definido.
+- [x] Brief web alineado con la investigación comercial.
 - [ ] Identidad visual: logotipo, eslogan, paleta, tipografías y lenguaje.
 - [ ] Web responsive con al menos cuatro menús.
 - [ ] Catálogo de servicios y simulación de contratación.
@@ -33,7 +34,7 @@ entrega/     Capturas y PDF final
 
 ## Enfoque de diseño
 
-La experiencia se diseñará para transmitir **confianza verificable, tecnología accesible y circularidad**, evitando una estética excesivamente técnica. La web hablará principalmente a marcas de moda medianas y ofrecerá al consumidor una demostración clara de cómo verificar un producto.
+La experiencia se diseñará para transmitir **confianza verificable, tecnología accesible y protección de la compra**, evitando una estética excesivamente técnica. La web hablará principalmente a marcas de moda medianas y ofrecerá al consumidor una demostración clara de cómo verificar un producto. La circularidad aparecerá como beneficio complementario, no como promesa principal.
 
 ## Entrega
 
