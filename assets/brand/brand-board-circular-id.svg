@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Identidad visual propuesta para Circular ID</title>
+  <desc id="desc">Lámina de marca con logotipo, símbolo, colores, tipografías, recursos gráficos y una pantalla de producto verificado.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0C1B33" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="dotPattern" width="42" height="42" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="8" rx="2" fill="#2EE6A6" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="1100" fill="#F4F7F6"/>
+  <rect width="1600" height="270" fill="#0C1B33"/>
+  <rect x="1110" y="0" width="490" height="270" fill="url(#dotPattern)"/>
+
+  <g transform="translate(92 52)">
+    <circle cx="72" cy="72" r="47" fill="none" stroke="#2EE6A6" stroke-width="13" stroke-linecap="round" stroke-dasharray="230 66" transform="rotate(-41 72 72)"/>
+    <path d="M42 72 61 89 96 50" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="106" y="43" width="8" height="8" rx="2" fill="#56A4FF"/>
+    <rect x="118" y="57" width="6" height="6" rx="1.5" fill="#56A4FF"/>
+    <rect x="108" y="71" width="8" height="8" rx="2" fill="#56A4FF"/>
+  </g>
+  <text x="275" y="116" fill="#FFFFFF" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-2">CIRCULAR</text>
+  <text x="630" y="116" fill="#2EE6A6" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-2">ID</text>
+  <text x="280" y="164" fill="#DDE7E4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25" font-weight="500">Cada prenda, una prueba de confianza.</text>
+  <text x="280" y="207" fill="#7EA8C8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="2.4">IDENTIDAD VISUAL · DIRECCIÓN 01 · SELLO VIVO</text>
+
+  <g transform="translate(72 326)">
+    <text x="0" y="0" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">01 · SÍMBOLO</text>
+    <rect x="0" y="34" width="392" height="356" rx="34" fill="#FFFFFF" filter="url(#shadow)"/>
+    <circle cx="196" cy="184" r="94" fill="none" stroke="#2EE6A6" stroke-width="25" stroke-linecap="round" stroke-dasharray="463 126" transform="rotate(-41 196 184)"/>
+    <path d="M137 186 172 218 240 142" fill="none" stroke="#0C1B33" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="264" y="126" width="17" height="17" rx="4" fill="#2B7FFF"/>
+    <rect x="287" y="153" width="13" height="13" rx="3" fill="#2B7FFF"/>
+    <rect x="268" y="179" width="17" height="17" rx="4" fill="#2B7FFF"/>
+    <text x="45" y="327" fill="#526176" font-family="Inter, Arial, Helvetica, sans-serif" font-size="18">Círculo abierto + verificación + señal digital</text>
+  </g>
+
+  <g transform="translate(520 326)">
+    <text x="0" y="0" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">02 · PALETA</text>
+    <g transform="translate(0 34)">
+      <rect x="0" y="0" width="214" height="142" rx="24" fill="#0C1B33"/>
+      <text x="18" y="103" fill="#FFFFFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700">INK NAVY</text>
+      <text x="18" y="126" fill="#AFC2D5" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14">#0C1B33</text>
+      <rect x="232" y="0" width="214" height="142" rx="24" fill="#2EE6A6"/>
+      <text x="250" y="103" fill="#0C1B33" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="800">VERIFIED MINT</text>
+      <text x="250" y="126" fill="#0C1B33" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14">#2EE6A6</text>
+      <rect x="0" y="160" width="214" height="142" rx="24" fill="#2B7FFF"/>
+      <text x="18" y="263" fill="#FFFFFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700">SIGNAL BLUE</text>
+      <text x="18" y="286" fill="#D8E9FF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14">#2B7FFF</text>
+      <rect x="232" y="160" width="214" height="142" rx="24" fill="#FFFFFF" stroke="#DCE5E2" stroke-width="2"/>
+      <text x="250" y="263" fill="#0C1B33" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700">CLOUD WHITE</text>
+      <text x="250" y="286" fill="#526176" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14">#FFFFFF</text>
+    </g>
+  </g>
+
+  <g transform="translate(1022 326)">
+    <text x="0" y="0" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">03 · TIPOGRAFÍA</text>
+    <rect x="0" y="34" width="506" height="356" rx="34" fill="#FFFFFF" filter="url(#shadow)"/>
+    <text x="38" y="105" fill="#18B980" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="2">TITULARES · MANROPE 800</text>
+    <text x="38" y="172" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5">Confianza</text>
+    <text x="38" y="224" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5">que se ve.</text>
+    <line x1="38" y1="258" x2="468" y2="258" stroke="#DCE5E2" stroke-width="2"/>
+    <text x="38" y="298" fill="#2B7FFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="2">TEXTO · INTER 400/600</text>
+    <text x="38" y="333" fill="#526176" font-family="Inter, Arial, Helvetica, sans-serif" font-size="18">Claro, directo y sin tecnicismos innecesarios.</text>
+  </g>
+
+  <g transform="translate(72 776)">
+    <text x="0" y="0" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="2">04 · EXPERIENCIA DE MARCA</text>
+    <rect x="0" y="32" width="604" height="246" rx="34" fill="#0C1B33"/>
+    <text x="38" y="83" fill="#7EA8C8" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="2">MENSAJE DE CAMPAÑA</text>
+    <text x="38" y="142" fill="#FFFFFF" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="44" font-weight="800">Acerca. Escanea.</text>
+    <text x="38" y="194" fill="#2EE6A6" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="44" font-weight="800">Comprueba.</text>
+    <text x="38" y="229" fill="#DDE7E4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="17">La verificación debe entenderse en menos de diez segundos.</text>
+  </g>
+
+  <g transform="translate(724 776)">
+    <rect x="0" y="0" width="804" height="278" rx="34" fill="#FFFFFF" filter="url(#shadow)"/>
+    <g transform="translate(32 31)">
+      <rect x="0" y="0" width="216" height="216" rx="24" fill="#EAF0EE"/>
+      <path d="M62 50h35v35H62zm9 9v17h17V59zm48-9h35v35h-35zm9 9v17h17V59zM62 107h35v35H62zm9 9v17h17v-17zm52-9h12v12h-12zm20 0h11v28h-11zm-20 20h12v15h-12zm18 22h15v15h-15zm-28 1h14v14h-14z" fill="#0C1B33"/>
+      <path d="M165 72c12 8 19 21 19 36s-7 28-19 36M153 84c8 5 12 14 12 24s-4 19-12 24" fill="none" stroke="#2B7FFF" stroke-width="5" stroke-linecap="round"/>
+      <text x="24" y="191" fill="#526176" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" font-weight="700">NFC + QR · ID 040-871</text>
+    </g>
+    <g transform="translate(286 35)">
+      <rect x="0" y="0" width="164" height="34" rx="17" fill="#DDF9EF"/>
+      <circle cx="20" cy="17" r="7" fill="#18B980"/>
+      <text x="35" y="22" fill="#087553" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="800">VERIFICADO</text>
+      <text x="0" y="96" fill="#0C1B33" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="36" font-weight="800">Producto registrado</text>
+      <text x="0" y="131" fill="#526176" font-family="Inter, Arial, Helvetica, sans-serif" font-size="18">La identidad coincide con el registro de la marca.</text>
+      <line x1="0" y1="161" x2="468" y2="161" stroke="#DCE5E2" stroke-width="2"/>
+      <text x="0" y="196" fill="#0C1B33" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Marca · colección · cuidados · garantía</text>
+      <text x="0" y="224" fill="#2B7FFF" font-family="Inter, Arial, Helvetica, sans-serif" font-size="15" font-weight="800">VER DETALLES DEL PRODUCTO →</text>
+    </g>
+  </g>
+</svg>
+

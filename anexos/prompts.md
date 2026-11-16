@@ -27,3 +27,15 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** actualización del perfil de cliente, definición de la propuesta de valor, jerarquía de beneficios, arquitectura de la web y selección de dos temas de blog.
 - **Criterio aplicado:** presentar los resultados de la encuesta como orientativos porque proceden de una muestra no probabilística de 20 personas.
 
+## Registro 003 - Identidad visual «Sello vivo»
+
+- **Fecha:** 16 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT.
+- **Finalidad:** crear una identidad gráfica concreta, escalable y coherente con la investigación de Circular ID.
+- **Prompt de diseño utilizado:**
+
+> Diseña una identidad visual vectorial para Circular ID, una solución B2B de etiquetas NFC + QR para verificar productos de moda. Debe transmitir confianza verificable, tecnología accesible y protección de la compra, sin parecer una empresa de ciberseguridad ni una criptomoneda. Crea un símbolo sencillo que una circularidad, verificación e identidad digital; un eslogan; una paleta accesible; un sistema tipográfico; recursos gráficos; tono por canal y aplicaciones para web, LinkedIn e Instagram. El resultado debe funcionar a tamaños pequeños y evitar promesas absolutas de seguridad.
+
+- **Resultado utilizado:** concepto «Sello vivo», símbolo circular con verificación, eslogan «Cada prenda, una prueba de confianza», paleta azul marino-verde-azul y sistema tipográfico Manrope + Inter.
+- **Revisión humana pendiente:** validar la dirección antes de aplicarla de forma definitiva a la web y a las redes sociales.
+
