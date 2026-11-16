@@ -68,3 +68,26 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Decisiones de rigor:** correo reservado bajo el dominio `.example`; precios y condiciones marcados como ficticios; referencias oficiales al RGPD y a la AEPD; ausencia de envío, almacenamiento o cobro real.
 - **Revisión humana pendiente:** validar los precios simulados, decidir si se muestran públicamente los nombres del equipo y sustituir los datos demostrativos antes de publicar.
 
+## Registro 006 - Perfiles sociales publicables
+
+- **Fecha:** 16 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT con generación de imagen integrada.
+- **Finalidad:** diseñar dos perfiles sociales simulados y un sistema de contenidos que pueda trasladarse a cuentas reales sin rediseñarlo.
+- **Prompt del usuario:**
+
+> OK, esas simulaciones tienen que poder sustituirse por reales si creamos las cuentas de Instagram y LinkedIn. ¿Es posible?
+>
+> OK! Perfecto, pues adelante.
+
+- **Prompt de diseño y contenido utilizado:**
+
+> Diseña para Circular ID una simulación académica de Instagram y otra de LinkedIn que puedan sustituirse por perfiles reales. Define y justifica cada canal; prepara la ficha técnica del perfil, avatar, biografía o descripción, portada de LinkedIn y cuatro contenidos por red. Instagram debe combinar fotografía, carrusel educativo, reel y promoción; LinkedIn debe combinar dato de investigación, documento, vídeo y anuncio B2B. Incluye `#dcom2526`, adapta los formatos a cada plataforma y mantén la identidad «Sello vivo». Usa usuarios y enlaces provisionales, no inventes seguidores ni interacciones y distingue la evidencia de registro de una garantía absoluta de autenticidad. Entrega textos, recursos exportados, capturas y un procedimiento para sustituir las simulaciones por cuentas reales.
+
+- **Prompt de generación de la fotografía original:**
+
+> Crea una fotografía natural y fotorrealista para una campaña prémium de Circular ID. Composición vertical para redes sociales: una chaqueta de moda color piedra sobre una superficie de estudio cálida y limpia, con una etiqueta inteligente discreta y sin texto junto a la prenda. Una mano humana sostiene un teléfono sin marca cerca de la etiqueta, como si acercara el móvil para leer NFC. Luz suave y difusa, fotografía editorial de moda, textura de tejido realista y espacio negativo para incorporar titulares. Sin logotipos, sin texto, sin marca de agua, sin códigos QR legibles, sin interfaz visible, anatomía natural de la mano y sin estética ciberpunk.
+
+- **Resultado utilizado:** dos mockups de perfil, avatar, fotografía original, ocho conceptos de contenido, ocho archivos publicables para Instagram, ocho para LinkedIn —incluida su portada—, textos publicables, guiones de vídeo, anuncio y plan de campaña.
+- **Decisiones de rigor:** usuarios y URL provisionales; cero seguidores en los mockups; datos de encuesta acompañados de `n = 20` y muestreo no probabilístico; precios y presupuesto identificados como simulación académica.
+- **Revisión humana pendiente:** comprobar la disponibilidad de los nombres, crear las cuentas, decidir qué contenidos se publican, producir los dos vídeos definitivos a partir de los guiones y sustituir las URL y capturas simuladas.
+

@@ -30,14 +30,14 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 
 | Requisito | Evidencia prevista | Estado |
 |---|---|---|
-| Dos perfiles adecuados | Instagram y LinkedIn, sujetos a validación | Pendiente |
-| Justificación de cada red | Público, objetivo, tono y formato | Pendiente |
-| Ficha técnica de cada perfil | Nombre, usuario, biografía, imagen y enlace | Pendiente |
-| Cuatro contenidos por red | Ocho piezas adaptadas al estilo de cada plataforma | Pendiente |
-| Variedad de formatos | Foto, carrusel/informativo, reel o vídeo y promoción | Pendiente |
-| Hashtag obligatorio | `#dcom2526` en las publicaciones | Pendiente |
-| Capturas en el PDF | Capturas legibles de perfiles y contenidos | Pendiente |
-| Anuncio social | Creatividad más objetivo, público, formato y mensaje | Pendiente |
+| Dos perfiles adecuados | Simulaciones de Instagram y LinkedIn preparadas para sustituirse por cuentas reales | Preparado |
+| Justificación de cada red | Público, objetivo, tono y formato | Preparado |
+| Ficha técnica de cada perfil | Nombre, usuario, biografía, imagen y enlace provisional | Preparado |
+| Cuatro contenidos por red | Ocho piezas adaptadas al estilo de cada plataforma | Preparado |
+| Variedad de formatos | Foto, carrusel/informativo, portada y guion de reel o vídeo, y promoción | Preparado |
+| Hashtag obligatorio | `#dcom2526` en las publicaciones | Preparado |
+| Capturas en el PDF | Dos capturas legibles ya exportadas; incorporación al PDF pendiente | En desarrollo |
+| Anuncio social | Creatividad más objetivo, público, formato, presupuesto simulado y mensaje | Preparado |
 
 ## 4. Documentación y anexos
 
@@ -50,5 +50,5 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 
 ## Observación importante
 
-El enunciado solicita enlaces obligatorios a dos perfiles sociales. Las simulaciones visuales servirán para diseñar y documentar el contenido, pero antes de la entrega habrá que decidir si se publican perfiles académicos reales o si el profesorado acepta enlaces a prototipos navegables.
+El enunciado solicita enlaces obligatorios a dos perfiles sociales. Las simulaciones visuales ya están preparadas y no contienen métricas ficticias; antes de la entrega habrá que crear las cuentas reales o confirmar que el profesorado acepta prototipos navegables. Si se crean, solo será necesario comprobar la disponibilidad de los nombres, sustituir las URL provisionales, publicar las piezas y renovar las capturas.
 
