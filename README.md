@@ -10,7 +10,8 @@ Circular ID es una propuesta B2B para marcas de moda y plataformas de segunda ma
 - [x] Requisitos de la práctica desglosados.
 - [x] Perfil de cliente provisional definido.
 - [x] Brief web alineado con la investigación comercial.
-- [ ] Identidad visual: logotipo, eslogan, paleta, tipografías y lenguaje.
+- [x] Identidad visual: logotipo, eslogan, paleta, tipografías y lenguaje.
+- [x] Primera versión responsive de la página de inicio.
 - [ ] Web responsive con al menos cuatro menús.
 - [ ] Catálogo de servicios y simulación de contratación.
 - [ ] Privacidad y primera capa RGPD.

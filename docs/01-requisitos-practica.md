@@ -6,12 +6,12 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 
 | Requisito | Evidencia prevista | Estado |
 |---|---|---|
-| Nombre de empresa | Circular ID, pendiente de validación final | En desarrollo |
-| Logotipo | Versiones principal, reducida y monocroma | Pendiente |
-| Eslogan | Propuesta y justificación | Pendiente |
-| Línea gráfica | Paleta, tipografías, iconografía y estilo fotográfico | Pendiente |
-| Hashtags propios | Selección, función y normas de uso | Pendiente |
-| Lenguaje por medio | Web, Instagram y LinkedIn | Pendiente |
+| Nombre de empresa | Circular ID | Preparado |
+| Logotipo | Versiones principal y reducida en formato vectorial | Preparado |
+| Eslogan | «Cada prenda, una prueba de confianza» | Preparado |
+| Línea gráfica | Paleta, tipografías, iconografía y dirección visual «Sello vivo» | Preparado |
+| Hashtags propios | Selección, función y normas de uso | Preparado |
+| Lenguaje por medio | Web, Instagram y LinkedIn | Preparado |
 
 ## 2. Página web
 
@@ -19,7 +19,7 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 |---|---|---|
 | Enlace evaluable o vídeo | URL pública de la web | Pendiente |
 | Servicios con descripción e información comercial | Planes o soluciones adaptados al modelo B2B | Pendiente |
-| Mínimo cuatro menús | Inicio, Solución, Empresa y Blog | Pendiente |
+| Mínimo cuatro menús | Portada con navegación creada; páginas interiores pendientes | En desarrollo |
 | Privacidad y primera capa RGPD | Aviso visible en formularios y página de privacidad | Pendiente |
 | Enlaces a redes sociales | Instagram y LinkedIn | Pendiente |
 | Contacto | Formulario, correo de demostración y datos ficticios señalados | Pendiente |

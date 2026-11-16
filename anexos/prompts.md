@@ -39,3 +39,15 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** concepto «Sello vivo», símbolo circular con verificación, eslogan «Cada prenda, una prueba de confianza», paleta azul marino-verde-azul y sistema tipográfico Manrope + Inter.
 - **Revisión humana pendiente:** validar la dirección antes de aplicarla de forma definitiva a la web y a las redes sociales.
 
+## Registro 004 - Primera página de inicio
+
+- **Fecha:** 16 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT.
+- **Finalidad:** aplicar la identidad «Sello vivo» a una página de inicio responsive y funcional.
+- **Prompt de diseño utilizado:**
+
+> Diseña una página de inicio para Circular ID basada en su investigación comercial y en la identidad «Sello vivo». El público principal son responsables de e-commerce, marketing o innovación de marcas medianas de moda; el usuario secundario es el comprador que verifica la prenda. La página debe explicar el valor en menos de un minuto, mostrar una demostración NFC + QR, incluir los resultados de la encuesta con su limitación muestral, explicar el funcionamiento, diferenciar el valor para marcas y compradores, anticipar dos artículos del blog y terminar con una llamada a una prueba piloto. El diseño debe ser concreto, responsive, accesible y evitar promesas absolutas sobre autenticidad.
+
+- **Resultado utilizado:** página de inicio estática con navegación, demostración interactiva, datos de investigación, secciones de funcionamiento y públicos, avance del blog y llamada a demostración.
+- **Revisión humana pendiente:** aprobar la narrativa y el diseño antes de crear páginas interiores y artículos completos.
+

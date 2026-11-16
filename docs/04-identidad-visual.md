@@ -107,5 +107,5 @@ Visual, directo y educativo. Frases breves, demostraciones, comparaciones y cons
 
 ## Estado
 
-Dirección visual inicial preparada para revisión. No se aplicará definitivamente a la web hasta validar el símbolo, el eslogan y la paleta.
+Dirección visual aprobada como base creativa y aplicada a la primera versión de la página de inicio. Podrá ajustarse después de revisar la web completa y las piezas sociales.
 
