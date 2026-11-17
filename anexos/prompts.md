@@ -123,5 +123,18 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 > Crea una memoria final de Circular ID alineada con los tres bloques del enunciado de la Práctica Imagen y Contenido. Incluye perfil del cliente, identidad visual, lenguaje y hashtags, arquitectura de la web, servicios, contratación simulada, blog, privacidad, dos perfiles sociales, las ocho publicaciones, fotogramas de los dos vídeos, anuncio, estrategia de campaña, matriz de cumplimiento y registro de prompts. Mantén la identidad «Sello vivo», utiliza todas las capturas necesarias, presenta los resultados de la encuesta con n = 20 y su limitación metodológica, no inventes enlaces públicos ni métricas y señala con claridad los elementos pendientes.
 
 - **Resultado utilizado:** memoria visual de 22 páginas en formato A4, con índice, evidencias completas, control de requisitos y cuatro páginas de anexos de prompts.
-- **Revisión humana pendiente:** añadir los nombres de los integrantes, confirmar si se exige URL pública y sustituir los enlaces o capturas provisionales cuando se creen las cuentas reales.
+- **Revisión humana realizada:** los nombres de los integrantes y la identidad institucional ya figuran en la portada. Sigue pendiente confirmar si se exige URL pública y sustituir los enlaces o capturas provisionales cuando se creen las cuentas reales.
+
+## Registro 009 - Portada institucional y datos del equipo
+
+- **Fecha:** 17 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT con edición y revisión visual de PDF.
+- **Finalidad:** completar la portada con la identidad institucional y los datos reales del grupo.
+- **Prompt del usuario:**
+
+> Esto hay que ponerlo en la portada del PDF.
+
+- **Datos incorporados:** Santiago Muriel Barroso, Hugo Sánchez Ferrera, Alberto Recio Gallego, Pablo García Fidalgo y Pelayo Sancho Rodríguez; Universidad Pontificia de Salamanca (UPSA); Grado en Administración y Dirección de Empresas Tecnológicas (ADET); Dirección Comercial; Salamanca, noviembre de 2026.
+- **Resultado utilizado:** portada actualizada con el logotipo de la UPSA y una ficha a dos columnas para integrantes y datos académicos. También se corrigieron las menciones internas que todavía indicaban que los nombres estaban pendientes.
+- **Revisión humana realizada:** renderizado y comprobación visual de la portada y de las páginas 2, 17 y 22; sin recortes, superposiciones ni problemas de legibilidad.
 

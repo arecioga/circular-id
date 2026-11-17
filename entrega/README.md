@@ -14,5 +14,5 @@ Si se crean las cuentas reales, las dos capturas sociales deberán sustituirse p
 
 ## Memoria
 
-La primera versión completa se encuentra en `../output/pdf/Memoria_Circular_ID_Imagen_y_Contenido_v1.pdf`. Incluye 22 páginas con identidad, web, blog, privacidad, perfiles, contenidos, vídeos, anuncio, matriz de requisitos y anexos de prompts.
+La primera versión completa se encuentra en `../output/pdf/Memoria_Circular_ID_Imagen_y_Contenido_v1.pdf`. Incluye 22 páginas con portada institucional —logotipo de la UPSA, cinco integrantes y datos académicos—, identidad, web, blog, privacidad, perfiles, contenidos, vídeos, anuncio, matriz de requisitos y anexos de prompts.
 
