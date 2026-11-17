@@ -36,7 +36,7 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 | Cuatro contenidos por red | Ocho piezas adaptadas al estilo de cada plataforma | Preparado |
 | Variedad de formatos | Foto, carrusel/informativo, reel y vídeo reales en MP4, y promoción | Preparado |
 | Hashtag obligatorio | `#dcom2526` en las publicaciones | Preparado |
-| Capturas en el PDF | Dos capturas legibles ya exportadas; incorporación al PDF pendiente | En desarrollo |
+| Capturas en el PDF | Perfiles, contenidos, vídeos y anuncio incorporados a la memoria | Preparado v1 |
 | Anuncio social | Creatividad más objetivo, público, formato, presupuesto simulado y mensaje | Preparado |
 
 ## 4. Documentación y anexos
@@ -44,9 +44,9 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 | Requisito de control | Evidencia prevista | Estado |
 |---|---|---|
 | Perfil del cliente | Buyer persona primario B2B y público secundario comprador | Preparado |
-| Prompts utilizados | Registro literal, finalidad y resultado | Iniciado |
+| Prompts utilizados | Ocho registros con finalidad, prompt, resultado y revisión | Preparado |
 | Diseño concreto | Sistema «Sello vivo» aplicado a portada, interiores, blog y formularios | Preparado |
-| Memoria estructurada | Índice alineado con los tres bloques del enunciado | Pendiente |
+| Memoria estructurada | PDF de 22 páginas alineado con los tres bloques del enunciado | Preparado v1 |
 
 ## Observación importante
 

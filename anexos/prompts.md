@@ -109,3 +109,19 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** Reel de Instagram de 15 segundos a 1080 × 1920 px y vídeo de LinkedIn de 12 segundos a 1080 × 1350 px, ambos con animación, textos integrados y codificación MP4 H.264 compatible con publicación social.
 - **Revisión humana realizada:** comprobación de las cuatro escenas de cada vídeo mediante fotogramas representativos y decodificación completa sin errores. Antes de publicar solo será necesario decidir si se añade música con derechos de uso.
 
+## Registro 008 - Memoria de Imagen y Contenido
+
+- **Fecha:** 17 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT con generación y revisión visual de PDF.
+- **Finalidad:** integrar en un documento evaluable todas las evidencias de marca, web y redes sociales sin depender todavía de la publicación externa.
+- **Prompt del usuario:**
+
+> Eso para después... Continuamos con otras cosas.
+
+- **Prompt de maquetación utilizado:**
+
+> Crea una memoria final de Circular ID alineada con los tres bloques del enunciado de la Práctica Imagen y Contenido. Incluye perfil del cliente, identidad visual, lenguaje y hashtags, arquitectura de la web, servicios, contratación simulada, blog, privacidad, dos perfiles sociales, las ocho publicaciones, fotogramas de los dos vídeos, anuncio, estrategia de campaña, matriz de cumplimiento y registro de prompts. Mantén la identidad «Sello vivo», utiliza todas las capturas necesarias, presenta los resultados de la encuesta con n = 20 y su limitación metodológica, no inventes enlaces públicos ni métricas y señala con claridad los elementos pendientes.
+
+- **Resultado utilizado:** memoria visual de 22 páginas en formato A4, con índice, evidencias completas, control de requisitos y cuatro páginas de anexos de prompts.
+- **Revisión humana pendiente:** añadir los nombres de los integrantes, confirmar si se exige URL pública y sustituir los enlaces o capturas provisionales cuando se creen las cuentas reales.
+

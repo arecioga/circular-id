@@ -20,7 +20,7 @@ Circular ID es una propuesta B2B para marcas de moda y plataformas de segunda ma
 - [x] Cuatro contenidos originales por red social.
 - [x] Anuncio para redes sociales.
 - [x] Capturas de la web y de los perfiles simulados.
-- [ ] Memoria final en PDF.
+- [x] Primera versión de la memoria final en PDF.
 - [ ] Publicación y enlace evaluable.
 
 ## Estructura prevista
@@ -31,7 +31,8 @@ assets/      Logotipo, imágenes, iconos y piezas visuales
 docs/        Brief, requisitos, cliente objetivo y memoria de diseño
 social/      Fichas de perfiles, contenidos y anuncio
 web/         Código de la web y del blog
-entrega/     Capturas y PDF final
+entrega/     Capturas y guía de entrega
+output/pdf/  Memoria final generada
 ```
 
 ## Enfoque de diseño
