@@ -59,6 +59,8 @@ Guarda este carrusel para tu próxima compra. Ninguna señal aislada certifica p
 
 **Portada:** `publicables/ig-03-reel-portada.png`.
 
+**Vídeo final:** `publicables/ig-03-reel-circular-id.mp4`.
+
 ### Guion
 
 - **0–3 s:** primer plano de la etiqueta. Texto: «Una prenda. Una identidad.»

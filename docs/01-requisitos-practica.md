@@ -34,7 +34,7 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 | Justificación de cada red | Público, objetivo, tono y formato | Preparado |
 | Ficha técnica de cada perfil | Nombre, usuario, biografía, imagen y enlace provisional | Preparado |
 | Cuatro contenidos por red | Ocho piezas adaptadas al estilo de cada plataforma | Preparado |
-| Variedad de formatos | Foto, carrusel/informativo, portada y guion de reel o vídeo, y promoción | Preparado |
+| Variedad de formatos | Foto, carrusel/informativo, reel y vídeo reales en MP4, y promoción | Preparado |
 | Hashtag obligatorio | `#dcom2526` en las publicaciones | Preparado |
 | Capturas en el PDF | Dos capturas legibles ya exportadas; incorporación al PDF pendiente | En desarrollo |
 | Anuncio social | Creatividad más objetivo, público, formato, presupuesto simulado y mensaje | Preparado |

@@ -91,3 +91,21 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Decisiones de rigor:** usuarios y URL provisionales; cero seguidores en los mockups; datos de encuesta acompañados de `n = 20` y muestreo no probabilístico; precios y presupuesto identificados como simulación académica.
 - **Revisión humana pendiente:** comprobar la disponibilidad de los nombres, crear las cuentas, decidir qué contenidos se publican, producir los dos vídeos definitivos a partir de los guiones y sustituir las URL y capturas simuladas.
 
+## Registro 007 - Producción de los vídeos sociales
+
+- **Fecha:** 17 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT con composición y codificación local de vídeo.
+- **Finalidad:** convertir los dos guiones y sus portadas en archivos de vídeo reales, utilizables cuando se creen las cuentas.
+- **Prompt del usuario:**
+
+> OK, vamos con el siguiente paso... Y no olvides ir guardando los prompt.
+>
+> Pero ¿no eran vídeos lo primero que había que hacer?
+
+- **Prompt de producción utilizado:**
+
+> Produce dos vídeos originales de Circular ID a partir de la identidad «Sello vivo», la fotografía editorial y los guiones aprobados. El Reel de Instagram debe durar 15 segundos, utilizar formato vertical 1080 × 1920 y explicar cuatro momentos: una prenda con identidad, acercar o escanear, registro coincidente y servicios de cuidados, garantía y reventa. El vídeo de LinkedIn debe durar 12 segundos, utilizar formato 1080 × 1350 y presentar el recorrido B2B: la marca registra, el cliente consulta, la pantalla explica y la relación continúa. Integra subtítulos y mensajes en pantalla para que funcionen sin sonido, añade `#dcom2526`, evita métricas o testimonios ficticios y aclara que la coincidencia es una evidencia de registro, no una garantía absoluta. Exporta ambos en MP4 H.264 y conserva un proceso reproducible.
+
+- **Resultado utilizado:** Reel de Instagram de 15 segundos a 1080 × 1920 px y vídeo de LinkedIn de 12 segundos a 1080 × 1350 px, ambos con animación, textos integrados y codificación MP4 H.264 compatible con publicación social.
+- **Revisión humana realizada:** comprobación de las cuatro escenas de cada vídeo mediante fotogramas representativos y decodificación completa sin errores. Antes de publicar solo será necesario decidir si se añade música con derechos de uso.
+

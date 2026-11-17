@@ -60,6 +60,8 @@ Así, la inversión puede aportar confianza antes de comprar y utilidad durante 
 
 **Portada:** `publicables/li-03-video-portada.png`.
 
+**Vídeo final:** `publicables/li-03-video-circular-id.mp4`.
+
 ### Guion
 
 - **0–3 s:** etiqueta NFC + QR. «La marca registra.»

@@ -18,7 +18,7 @@ Los nombres de usuario, enlaces, métricas y datos de cuenta son provisionales h
 1. Comprobar la disponibilidad de `@circularid_es` y `/company/circular-id-es`.
 2. Crear las cuentas con un correo gestionado por el equipo.
 3. Subir el avatar, la portada y los archivos de las carpetas `publicables/`.
-4. Producir los vídeos definitivos a partir de los guiones de las publicaciones 03; sus portadas ya están preparadas.
+4. Subir los vídeos definitivos de las publicaciones 03, ya exportados en MP4 H.264, junto con sus portadas.
 5. Sustituir los usuarios y enlaces provisionales, renovar las capturas y añadir las URL reales a la web.
 
 No se han simulado seguidores, reacciones, testimonios ni resultados del anuncio. La estrategia completa y las fichas técnicas están en `docs/05-estrategia-redes-sociales.md`.

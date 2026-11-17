@@ -64,8 +64,9 @@ Todas las publicaciones incorporan `#dcom2526` y distinguen entre evidencia de r
 ## 5. Formatos preparados para publicación
 
 - **Instagram feed:** 1080 × 1350 px, relación 4:5.
-- **Instagram reel:** portada de 1080 × 1920 px, relación 9:16.
+- **Instagram reel:** vídeo y portada de 1080 × 1920 px, relación 9:16, 15 segundos.
 - **LinkedIn imagen y documento:** 1080 × 1350 px, relación 4:5.
+- **LinkedIn vídeo:** 1080 × 1350 px, relación 4:5, 12 segundos.
 - **LinkedIn anuncio horizontal:** 1200 × 627 px, relación aproximada 1,91:1.
 - **LinkedIn logotipo:** 400 × 400 px.
 - **LinkedIn portada:** 1512 × 256 px.
@@ -94,3 +95,4 @@ Las credenciales, códigos de acceso y datos de recuperación nunca se guardará
 - Las publicaciones hablan de «registro coincidente» o «evidencia», no de seguridad infalible.
 - Las cifras de seguidores, reacciones o comentarios no se simulan.
 - Los precios y condiciones del piloto se identifican como demostración académica.
+- Los dos vídeos se entregan en MP4 H.264, a 30 fotogramas por segundo y sin música de terceros.
