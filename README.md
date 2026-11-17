@@ -21,7 +21,7 @@ Circular ID es una propuesta B2B para marcas de moda y plataformas de segunda ma
 - [x] Anuncio para redes sociales.
 - [x] Capturas de la web y de los perfiles simulados.
 - [x] Primera versión de la memoria final en PDF.
-- [ ] Publicación y enlace evaluable.
+- [x] Publicación de la web y enlace evaluable mediante GitHub Pages.
 
 ## Estructura prevista
 
@@ -43,5 +43,8 @@ La experiencia se diseñará para transmitir **confianza verificable, tecnologí
 
 El repositorio documentará tanto el resultado final como las decisiones de diseño. Los prompts utilizados se conservarán en `anexos/prompts.md`.
 
-La web y los perfiles simulados están preparados en local y todavía no se han publicado. Los usuarios sociales, enlaces, datos de contacto, precios, plazos y condiciones comerciales están identificados expresamente como provisionales o demostrativos.
+- **Web pública:** <https://arecioga.github.io/circular-id/>
+- **Repositorio:** <https://github.com/arecioga/circular-id>
+
+La web está publicada como prototipo académico. Los perfiles sociales continúan simulados; sus usuarios y enlaces, junto con los datos de contacto, precios, plazos y condiciones comerciales, están identificados expresamente como provisionales o demostrativos.
 

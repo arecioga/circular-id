@@ -2,6 +2,11 @@
 
 Versión local de la web corporativa y el blog. Es un sitio estático construido con HTML, CSS y JavaScript, sin dependencias ni proceso de compilación.
 
+## Publicación
+
+- Web pública: <https://arecioga.github.io/circular-id/>
+- Despliegue automático: GitHub Pages desde la carpeta `web/` mediante GitHub Actions.
+
 ## Vista local
 
 Desde la raíz del repositorio:
@@ -22,7 +27,7 @@ Después, abrir `http://localhost:4173/web/`.
 - Formulario con primera capa informativa que no envía ni guarda datos.
 - Dos artículos completos integrados en el blog.
 - Navegación móvil accesible.
-- Pendiente: sustituir el correo reservado de demostración, incorporar los enlaces de las redes sociales cuando existan y publicar una URL evaluable.
+- Pendiente: sustituir el correo reservado de demostración e incorporar los enlaces de las redes sociales cuando existan.
 
 ## Páginas
 

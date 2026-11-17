@@ -17,7 +17,7 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 
 | Requisito | Evidencia prevista | Estado |
 |---|---|---|
-| Enlace evaluable o vídeo | URL pública de la web | Pendiente |
+| Enlace evaluable o vídeo | [Web pública en GitHub Pages](https://arecioga.github.io/circular-id/) | Publicado |
 | Servicios con descripción e información comercial | Tres planes B2B demostrativos, alcance, precios y condiciones | Preparado |
 | Mínimo cuatro menús | Inicio, Solución, Servicios, Empresa, Blog y Contacto | Preparado |
 | Privacidad y primera capa RGPD | Aviso visible en el formulario y segunda capa académica | Preparado |
@@ -44,11 +44,11 @@ Este documento convierte el enunciado en una lista verificable. Cada elemento de
 | Requisito de control | Evidencia prevista | Estado |
 |---|---|---|
 | Perfil del cliente | Buyer persona primario B2B y público secundario comprador | Preparado |
-| Prompts utilizados | Ocho registros con finalidad, prompt, resultado y revisión | Preparado |
+| Prompts utilizados | Diez registros con finalidad, prompt, resultado y revisión | Preparado |
 | Diseño concreto | Sistema «Sello vivo» aplicado a portada, interiores, blog y formularios | Preparado |
 | Memoria estructurada | PDF de 22 páginas alineado con los tres bloques del enunciado | Preparado v1 |
 
 ## Observación importante
 
-El enunciado solicita enlaces obligatorios a dos perfiles sociales. Las simulaciones visuales ya están preparadas y no contienen métricas ficticias; antes de la entrega habrá que crear las cuentas reales o confirmar que el profesorado acepta prototipos navegables. Si se crean, solo será necesario comprobar la disponibilidad de los nombres, sustituir las URL provisionales, publicar las piezas y renovar las capturas.
+La web ya está publicada en `https://arecioga.github.io/circular-id/`. El enunciado también solicita enlaces a dos perfiles sociales. Las simulaciones visuales ya están preparadas y no contienen métricas ficticias; antes de la entrega habrá que crear las cuentas reales o confirmar que el profesorado acepta prototipos navegables. Si se crean, solo será necesario comprobar la disponibilidad de los nombres, sustituir las URL provisionales, publicar las piezas y renovar las capturas.
 

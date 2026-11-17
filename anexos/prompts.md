@@ -138,3 +138,21 @@ Este archivo conservará los prompts utilizados para idear, diseñar, redactar o
 - **Resultado utilizado:** portada actualizada con el logotipo de la UPSA y una ficha a dos columnas para integrantes y datos académicos. También se corrigieron las menciones internas que todavía indicaban que los nombres estaban pendientes.
 - **Revisión humana realizada:** renderizado y comprobación visual de la portada y de las páginas 2, 17 y 22; sin recortes, superposiciones ni problemas de legibilidad.
 
+## Registro 010 - Publicación de la web en GitHub Pages
+
+- **Fecha:** 17 de noviembre de 2026.
+- **Herramienta:** Codex / ChatGPT con GitHub y revisión visual en navegador.
+- **Finalidad:** obtener una URL pública evaluable y mantener una dirección breve y coherente con la marca.
+- **Prompt del usuario:**
+
+> Hay posibilidad de colgar la WEB y obtener el link en GitHub.
+>
+> OK, si la puedes llamar solamente circular-id, mejor.
+
+- **Prompt técnico de despliegue utilizado:**
+
+> Publica la web estática de Circular ID mediante GitHub Pages. Renombra el repositorio a `circular-id`, despliega únicamente el contenido de la carpeta `web/` con GitHub Actions, conserva las rutas relativas, incluye dentro del artefacto todos los recursos visuales necesarios y verifica la portada y las páginas interiores desde la URL pública HTTPS.
+
+- **Resultado utilizado:** repositorio renombrado a `https://github.com/arecioga/circular-id` y web publicada en `https://arecioga.github.io/circular-id/` mediante un flujo automático de GitHub Pages.
+- **Revisión humana realizada:** comprobación de diez páginas HTML y 218 enlaces o recursos locales; revisión visual de la portada pública; navegación, logotipo, estilos, blog y HTTPS operativos.
+

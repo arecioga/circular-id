@@ -16,3 +16,9 @@ Si se crean las cuentas reales, las dos capturas sociales deberán sustituirse p
 
 La primera versión completa se encuentra en `../output/pdf/Memoria_Circular_ID_Imagen_y_Contenido_v1.pdf`. Incluye 22 páginas con portada institucional —logotipo de la UPSA, cinco integrantes y datos académicos—, identidad, web, blog, privacidad, perfiles, contenidos, vídeos, anuncio, matriz de requisitos y anexos de prompts.
 
+## Enlaces publicados
+
+- Repositorio: <https://github.com/arecioga/circular-id>
+- Web evaluable: <https://arecioga.github.io/circular-id/>
+- PDF en GitHub: <https://github.com/arecioga/circular-id/blob/main/output/pdf/Memoria_Circular_ID_Imagen_y_Contenido_v1.pdf>
+
